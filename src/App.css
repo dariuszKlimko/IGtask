@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+body {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  margin-top: 2vh;
+  background-color: rgba(8, 7, 22, 0.889);
+}
+
+.Loading {
+  position: absolute;
+  top: 48%;
+  left: 45%;
+}
